@@ -1,5 +1,7 @@
 # fake-job-prediction
-**Intriduction**
+
+**Intrioduction**
+
 Fake jobs defined as employment scam which attempt to defraud people who are seeking vacancies by tricking victim’s good employment with unrealistic hope but the vacancy is none-exist. Previously, jobs advertised was via newspapers, TV or Radio, but in the era of technology more jobs are posted online. 
 
 Due to the rise of job scams, machine learning on prediction of employment scam started getting popular to be studies these days where many people are unemployed or work at home during COVID-19 pandemic. Better features of machine learning of classification algorithms will be study to predict if a job posted is fraudulent or genuine. To further research on the important features of fake jobs such as company profile, description, requirements and other details based on the texts. 
@@ -14,6 +16,7 @@ Text analysis of this project was analysed by created wordcloud upon pre-process
 
 
 **Result**
+
 Table below is the experimental results of this project and it does not shown much difference in the measurement metric of Accuracy and F1-score (F-Measure) among all the classifiers. Most of the models showing similar measurement and it is hard to decide which is the promising machine learning algorithms to predict fake jobs posting. 
 ![image](https://user-images.githubusercontent.com/58686831/197242842-14745542-d442-40b0-8ee9-d2e712ddaf08.png)
 
