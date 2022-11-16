@@ -1,6 +1,6 @@
 # Fake-job-prediction / Text Analysis / Natural language toolkit(NLTK) Python
 
-**Intrioduction**
+**Introduction**
 
 Fake jobs defined as employment scam which attempt to defraud people who are seeking vacancies by tricking victim’s good employment with unrealistic hope but the vacancy is none-exist. Previously, jobs advertised was via newspapers, TV or Radio, but in the era of technology more jobs are posted online. 
 
