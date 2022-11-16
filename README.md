@@ -1,4 +1,4 @@
-# Fake-job-prediction / Text Analysis / Natural language toolkit(NLTK) Python
+# Natural Language Processing - fake Job Prediction Text Analysis
 
 **Introduction**
 
