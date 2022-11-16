@@ -1,4 +1,4 @@
-# Natural Language Processing - fake Job Prediction Text Analysis
+# Natural Language Processing - Fake Job Prediction Text Analysis
 
 **Introduction**
 
